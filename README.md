@@ -1,5 +1,10 @@
 <h1 align=center>IMERSAO-JAVA-ALURA</h1>
 
+<p align="center">
+  <img src="alura.png" width="500">
+</p>
+
+#
 ### SOBRE
 
 - Repositório contendo o desenvolvimento na Imersão Java 1° Edição realizado na Alura.
