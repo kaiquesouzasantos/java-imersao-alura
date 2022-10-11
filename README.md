@@ -1,7 +1,7 @@
 <h1 align=center>IMERSAO-JAVA-ALURA</h1>
 
 <p align="center">
-  <img src="alura.png" width="500">
+  <img src="alura_l.png" width="500">
 </p>
 
 #
