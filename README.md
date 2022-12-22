@@ -20,7 +20,7 @@
   - *Conta com*: Spring Boot, MongoDB, injeção de dependencias, estrutura de dados e requisão Web;
   
 #
-### TECNOLOGIA
+### TECNOLOGIAS
 - [Java](https://www.python.org)
 - [Spring](https://spring.io/projects/spring-boot)
 
